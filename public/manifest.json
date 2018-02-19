@@ -1,0 +1,6 @@
+{
+  "short_name": "virtualized-list-async-data-dynamic-height",
+  "name": "virtualized-list-async-data-dynamic-height",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
